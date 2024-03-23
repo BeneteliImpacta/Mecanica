@@ -1,0 +1,36 @@
+﻿
+/* Celulares */
+@media only screen and (max-width: 600px) {
+    #statusCadastradoSpan {
+        margin-left: 12px;
+    }
+
+    #statusConvalidadoSpan {
+        padding-right: 30px;
+    }
+}
+
+/* Pequenos tablets ou celulares grandes */
+@media only screen and (min-width: 600px) and (max-width: 768px) {
+    #statusCadastradoSpan {
+        margin-left: 12px;
+    }
+
+    #statusConvalidadoSpan {
+        padding-right: 30px;
+    }
+}
+
+/* Tablets com maior resolução */
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    
+}
+
+/* Laptops e Desktop */
+@media only screen and (min-width: 992px)  {
+    
+}
+
+.fonte-icones-lista-documentos {
+    font-size: 35px;
+}

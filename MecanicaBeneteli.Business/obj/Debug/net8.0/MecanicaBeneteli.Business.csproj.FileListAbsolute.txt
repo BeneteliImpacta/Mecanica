@@ -1,0 +1,12 @@
+C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\bin\Debug\net8.0\MecanicaBeneteli.Business.deps.json
+C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\bin\Debug\net8.0\MecanicaBeneteli.Business.dll
+C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\bin\Debug\net8.0\MecanicaBeneteli.Business.pdb
+C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\obj\Debug\net8.0\MecanicaBeneteli.Business.csproj.AssemblyReference.cache
+C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\obj\Debug\net8.0\MecanicaBeneteli.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\obj\Debug\net8.0\MecanicaBeneteli.Business.AssemblyInfoInputs.cache
+C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\obj\Debug\net8.0\MecanicaBeneteli.Business.AssemblyInfo.cs
+C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\obj\Debug\net8.0\MecanicaBeneteli.Business.csproj.CoreCompileInputs.cache
+C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\obj\Debug\net8.0\MecanicaBeneteli.Business.dll
+C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\obj\Debug\net8.0\refint\MecanicaBeneteli.Business.dll
+C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\obj\Debug\net8.0\MecanicaBeneteli.Business.pdb
+C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\obj\Debug\net8.0\ref\MecanicaBeneteli.Business.dll

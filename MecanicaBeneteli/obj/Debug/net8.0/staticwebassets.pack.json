@@ -1,0 +1,1025 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MecanicaBeneteli.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MecanicaBeneteli.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\android-chrome-192x192.png",
+      "PackagePath": "staticwebassets\\android-chrome-192x192.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\android-chrome-256x256.png",
+      "PackagePath": "staticwebassets\\android-chrome-256x256.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\Nunito-Bold.eot",
+      "PackagePath": "staticwebassets\\dist\\Nunito-Bold.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\Nunito-Bold.svg",
+      "PackagePath": "staticwebassets\\dist\\Nunito-Bold.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\Nunito-Bold.ttf",
+      "PackagePath": "staticwebassets\\dist\\Nunito-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\Nunito-Bold.woff",
+      "PackagePath": "staticwebassets\\dist\\Nunito-Bold.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\Nunito-Light.eot",
+      "PackagePath": "staticwebassets\\dist\\Nunito-Light.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\Nunito-Light.svg",
+      "PackagePath": "staticwebassets\\dist\\Nunito-Light.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\Nunito-Light.ttf",
+      "PackagePath": "staticwebassets\\dist\\Nunito-Light.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\Nunito-Light.woff",
+      "PackagePath": "staticwebassets\\dist\\Nunito-Light.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\Nunito-Regular.eot",
+      "PackagePath": "staticwebassets\\dist\\Nunito-Regular.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\Nunito-Regular.svg",
+      "PackagePath": "staticwebassets\\dist\\Nunito-Regular.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\Nunito-Regular.ttf",
+      "PackagePath": "staticwebassets\\dist\\Nunito-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\Nunito-Regular.woff",
+      "PackagePath": "staticwebassets\\dist\\Nunito-Regular.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\Nunito-SemiBold.eot",
+      "PackagePath": "staticwebassets\\dist\\Nunito-SemiBold.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\Nunito-SemiBold.svg",
+      "PackagePath": "staticwebassets\\dist\\Nunito-SemiBold.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\Nunito-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\dist\\Nunito-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\Nunito-SemiBold.woff",
+      "PackagePath": "staticwebassets\\dist\\Nunito-SemiBold.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\css\\style.css",
+      "PackagePath": "staticwebassets\\dist\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\dist\\dripicons-v2.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\dripicons-v2.svg",
+      "PackagePath": "staticwebassets\\dist\\dripicons-v2.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\dist\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\dist\\dripicons-v2.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-Bold.eot",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-Bold.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-Bold.svg",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-Bold.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-Bold.ttf",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-Bold.woff",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-Bold.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-Light.eot",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-Light.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-Light.svg",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-Light.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-Light.ttf",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-Light.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-Light.woff",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-Light.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-Light.woff2",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-Light.woff2"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-Regular.eot",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-Regular.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-Regular.svg",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-Regular.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-Regular.ttf",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-Regular.woff",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-Regular.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-SemiBold.eot",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-SemiBold.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-SemiBold.svg",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-SemiBold.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\Nunito-SemiBold.woff",
+      "PackagePath": "staticwebassets\\dist\\fonts\\Nunito-SemiBold.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\dist\\fonts\\dripicons-v2.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\dripicons-v2.svg",
+      "PackagePath": "staticwebassets\\dist\\fonts\\dripicons-v2.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\dist\\fonts\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\dist\\fonts\\dripicons-v2.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\dist\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\dist\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\dist\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\dist\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\unicons.eot",
+      "PackagePath": "staticwebassets\\dist\\fonts\\unicons.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\unicons.svg",
+      "PackagePath": "staticwebassets\\dist\\fonts\\unicons.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\unicons.ttf",
+      "PackagePath": "staticwebassets\\dist\\fonts\\unicons.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\unicons.woff",
+      "PackagePath": "staticwebassets\\dist\\fonts\\unicons.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\fonts\\unicons.woff2",
+      "PackagePath": "staticwebassets\\dist\\fonts\\unicons.woff2"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\bg-pattern-dark.png",
+      "PackagePath": "staticwebassets\\dist\\images\\bg-pattern-dark.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\bg-pattern-light.svg",
+      "PackagePath": "staticwebassets\\dist\\images\\bg-pattern-light.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\bg-pattern.png",
+      "PackagePath": "staticwebassets\\dist\\images\\bg-pattern.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\content",
+      "PackagePath": "staticwebassets\\dist\\images"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\help-icon.svg",
+      "PackagePath": "staticwebassets\\dist\\images\\help-icon.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-6143.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-6143.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-6271.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-6271.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-6345.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-6345.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-6429.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-6429.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-6467.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-6467.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-6471.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-6471.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-6473.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-6473.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-6495.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-6495.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-6549.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-6549.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-6551.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-6551.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-6601.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-6601.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-6789.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-6789.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-7065.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-7065.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-7097.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-7097.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-7121.PNG",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-7121.PNG"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-7135.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-7135.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-7233.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-7233.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-99999.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-99999.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-dcc.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-dcc.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\orgao\\brasao-ndc.png",
+      "PackagePath": "staticwebassets\\dist\\images\\orgao\\brasao-ndc.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\users\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\dist\\images\\users\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\images\\waves.png",
+      "PackagePath": "staticwebassets\\dist\\images\\waves.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\js\\mecanicabeneteli.app.js",
+      "PackagePath": "staticwebassets\\dist\\js\\mecanicabeneteli.app.js"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\dist\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\dist\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\dist\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\dist\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\unicons.eot",
+      "PackagePath": "staticwebassets\\dist\\unicons.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\unicons.svg",
+      "PackagePath": "staticwebassets\\dist\\unicons.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\unicons.ttf",
+      "PackagePath": "staticwebassets\\dist\\unicons.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\unicons.woff",
+      "PackagePath": "staticwebassets\\dist\\unicons.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\unicons.woff2",
+      "PackagePath": "staticwebassets\\dist\\unicons.woff2"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\dist\\waves.png",
+      "PackagePath": "staticwebassets\\dist\\waves.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\favicon-16x16.png",
+      "PackagePath": "staticwebassets\\favicon-16x16.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\favicon-32x32.png",
+      "PackagePath": "staticwebassets\\favicon-32x32.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\safari-pinned-tab.svg",
+      "PackagePath": "staticwebassets\\safari-pinned-tab.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\site.webmanifest",
+      "PackagePath": "staticwebassets\\site.webmanifest"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\css\\geral.css",
+      "PackagePath": "staticwebassets\\src\\css\\geral.css"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\css\\nsca.css",
+      "PackagePath": "staticwebassets\\src\\css\\nsca.css"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-Bold.eot",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-Bold.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-Bold.svg",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-Bold.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-Bold.ttf",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-Bold.woff",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-Bold.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-Light.eot",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-Light.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-Light.svg",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-Light.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-Light.ttf",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-Light.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-Light.woff",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-Light.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-Light.woff2",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-Light.woff2"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-Regular.eot",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-Regular.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-Regular.svg",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-Regular.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-Regular.ttf",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-Regular.woff",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-Regular.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-SemiBold.eot",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-SemiBold.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-SemiBold.svg",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-SemiBold.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\Nunito-SemiBold.woff",
+      "PackagePath": "staticwebassets\\src\\fonts\\Nunito-SemiBold.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\dripicons-v2.eot",
+      "PackagePath": "staticwebassets\\src\\fonts\\dripicons-v2.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\dripicons-v2.svg",
+      "PackagePath": "staticwebassets\\src\\fonts\\dripicons-v2.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\dripicons-v2.ttf",
+      "PackagePath": "staticwebassets\\src\\fonts\\dripicons-v2.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\dripicons-v2.woff",
+      "PackagePath": "staticwebassets\\src\\fonts\\dripicons-v2.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\src\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\src\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\src\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\src\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\unicons.eot",
+      "PackagePath": "staticwebassets\\src\\fonts\\unicons.eot"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\unicons.svg",
+      "PackagePath": "staticwebassets\\src\\fonts\\unicons.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\unicons.ttf",
+      "PackagePath": "staticwebassets\\src\\fonts\\unicons.ttf"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\unicons.woff",
+      "PackagePath": "staticwebassets\\src\\fonts\\unicons.woff"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\fonts\\unicons.woff2",
+      "PackagePath": "staticwebassets\\src\\fonts\\unicons.woff2"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\bg-pattern-dark.png",
+      "PackagePath": "staticwebassets\\src\\images\\bg-pattern-dark.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\bg-pattern-light.svg",
+      "PackagePath": "staticwebassets\\src\\images\\bg-pattern-light.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\bg-pattern.png",
+      "PackagePath": "staticwebassets\\src\\images\\bg-pattern.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\content",
+      "PackagePath": "staticwebassets\\src\\images"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\help-icon.svg",
+      "PackagePath": "staticwebassets\\src\\images\\help-icon.svg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-6143.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-6143.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-6271.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-6271.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-6345.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-6345.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-6429.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-6429.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-6467.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-6467.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-6471.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-6471.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-6473.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-6473.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-6495.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-6495.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-6549.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-6549.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-6551.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-6551.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-6601.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-6601.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-6789.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-6789.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-7065.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-7065.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-7097.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-7097.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-7121.PNG",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-7121.PNG"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-7135.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-7135.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-7233.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-7233.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-99999.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-99999.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-dcc.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-dcc.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\orgao\\brasao-ndc.png",
+      "PackagePath": "staticwebassets\\src\\images\\orgao\\brasao-ndc.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\users\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\src\\images\\users\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\images\\waves.png",
+      "PackagePath": "staticwebassets\\src\\images\\waves.png"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\js\\app.js",
+      "PackagePath": "staticwebassets\\src\\js\\app.js"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\js\\components\\portlet.js",
+      "PackagePath": "staticwebassets\\src\\js\\components\\portlet.js"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\js\\components\\utils.js",
+      "PackagePath": "staticwebassets\\src\\js\\components\\utils.js"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\js\\layout\\index.js",
+      "PackagePath": "staticwebassets\\src\\js\\layout\\index.js"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\js\\layout\\left-sidebar.js",
+      "PackagePath": "staticwebassets\\src\\js\\layout\\left-sidebar.js"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\js\\layout\\right-sidebar.js",
+      "PackagePath": "staticwebassets\\src\\js\\layout\\right-sidebar.js"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\js\\layout\\topbar.js",
+      "PackagePath": "staticwebassets\\src\\js\\layout\\topbar.js"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\js\\ui\\forms\\validation.js",
+      "PackagePath": "staticwebassets\\src\\js\\ui\\forms\\validation.js"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\js\\util.js",
+      "PackagePath": "staticwebassets\\src\\js\\util.js"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\app-dark.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\app-dark.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\app.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\app.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\config\\_custom-variables-dark.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\config\\_custom-variables-dark.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\config\\_custom-variables.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\config\\_custom-variables.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\config\\_variables-dark.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\config\\_variables-dark.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\config\\_variables.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\config\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_accordions.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_accordions.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_badge.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_card.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_card.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_docs.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_docs.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_hero.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_hero.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_mixins.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_modal.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_nav.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_pagination.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_popover.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_preloader.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_preloader.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_print.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_print.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_progress.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_reboot.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_ribbons.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_ribbons.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_social.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_social.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_steps.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_steps.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_switch.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_switch.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_type.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_type.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_utilities.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\_widgets.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\_widgets.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\components\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\components\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\fonts\\_nunito.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\fonts\\_nunito.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\pages\\_authentication.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\pages\\_authentication.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\pages\\_components-demo.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\pages\\_components-demo.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\pages\\_email.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\pages\\_email.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\pages\\_error.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\pages\\_error.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\pages\\_faq.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\pages\\_faq.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\pages\\_maintenance.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\pages\\_maintenance.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\pages\\_tasks.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\pages\\_tasks.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\pages\\_timeline.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\pages\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_apexcharts.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_apexcharts.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_bootstrap-timepicker.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_bootstrap-timepicker.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_bootstrap-touchspin.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_bootstrap-touchspin.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_britechart.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_britechart.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_calendar.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_calendar.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_chartjs.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_chartjs.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_datatable.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_datatable.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_datepicker.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_datepicker.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_dragula.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_dragula.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_dropzone.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_dropzone.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_form-wizard.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_form-wizard.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_frappe-gantt.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_frappe-gantt.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_icons.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_maps.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_quill-editor.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_quill-editor.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_select2.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_select2.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_simplebar.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_simplebar.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_simplemde.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_simplemde.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_sparklines.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_sparklines.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_timepicker.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_timepicker.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_toaster.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_toaster.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\_typehead.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\_typehead.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\icons\\_dripicons.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\icons\\_dripicons.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\icons\\_materialdesignicons.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\icons\\_materialdesignicons.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\plugins\\icons\\_unicons.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\plugins\\icons\\_unicons.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\structure\\_footer.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\structure\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\structure\\_general.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\structure\\_general.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\structure\\_horizontal-nav.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\structure\\_horizontal-nav.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\structure\\_left-menu.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\structure\\_left-menu.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\structure\\_page-head.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\structure\\_page-head.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\structure\\_right-sidebar.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\structure\\_right-sidebar.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\custom\\structure\\_topbar.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\custom\\structure\\_topbar.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\icons.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\icons.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\vendor\\_bootstrap-datepicker.min.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\vendor\\_bootstrap-datepicker.min.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\vendor\\_bootstrap-timepicker.min.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\vendor\\_bootstrap-timepicker.min.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\vendor\\_daterangepicker.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\vendor\\_daterangepicker.scss"
+    },
+    {
+      "Id": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\scss\\vendor\\_select2.min.scss",
+      "PackagePath": "staticwebassets\\src\\scss\\vendor\\_select2.min.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MecanicaBeneteli.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MecanicaBeneteli.props",
+      "PackagePath": "build\\MecanicaBeneteli.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MecanicaBeneteli.props",
+      "PackagePath": "buildMultiTargeting\\MecanicaBeneteli.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MecanicaBeneteli.props",
+      "PackagePath": "buildTransitive\\MecanicaBeneteli.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,51 @@
+﻿
+/* Celulares */
+@media only screen and (max-width: 600px) {
+    .iframe-settings {
+        margin-top: 20px;
+        width: 100%;
+    }
+    .card-programa {
+        
+    }
+
+    body[data-leftbar-compact-mode="condensed"]:not(.authentication-bg) .wrapper .leftside-menu {
+        width: 270px !important;
+    }
+
+    body[data-leftbar-compact-mode="condensed"]:not(.authentication-bg) .side-nav .side-nav-item .side-nav-link span {
+        display: contents !important;
+    }
+
+}
+
+/* Pequenos tablets ou celulares grandes */
+@media only screen and (min-width: 600px) and (max-width: 768px) {
+    .iframe-settings {
+        margin-top: 20px;
+        width: 100%;
+    }
+    .card-programa {
+        
+    }
+}
+
+/* Tablets com maior resolução */
+@media only screen and (min-width: 768px) and (max-width: 992px) {
+    .iframe-settings {
+        width: 100%;
+    }
+    .card-programa {
+        
+    }
+}
+
+/* Laptops e Desktop */
+@media only screen and (min-width: 992px)  {
+    .iframe-settings {
+        width: 100%;
+    }
+    .card-programa {
+        min-height: 210px;
+    }
+}

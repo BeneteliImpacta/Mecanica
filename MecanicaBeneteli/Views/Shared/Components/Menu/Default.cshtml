@@ -1,0 +1,85 @@
+﻿
+@{
+    var controller = string.Empty;
+}
+
+<li class="side-nav-item">
+    @{
+        controller = "Usuario";
+    }
+    <a id="@controller" asp-controller="@controller" asp-action="UsuarioInicio" class="side-nav-link">
+        <i class="uil-search-alt"></i>
+        <span> Consulta de Multa </span>
+    </a>
+</li>
+
+<li class="side-nav-item">
+    @{
+        controller = "Recurso";
+    }
+    <a id="@controller" asp-controller="@controller" asp-action="ConsultarInicio" asp-route-municipio="@Model.Codigo" class="side-nav-link">
+        <i class="mdi mdi-clipboard-search-outline"></i>
+        <span> Consulta de Recursos </span>
+    </a>
+</li>
+
+<li class="side-nav-item">
+    @{
+        controller = "Pontuacao";
+    }
+    <a id="@controller" asp-controller="@controller" asp-action="ConsultarInicio" asp-route-municipio="@Model.Codigo" class="side-nav-link">
+        <i class="mdi mdi-magnify-plus"></i>
+        <span> Pontuação de CNH </span>
+    </a>
+</li>
+
+
+    <li class="side-nav-item">
+        <a target="_blank" href="@Url.Content($"~/docs/form-recurso/REQUERIMENTO_RECURSO_MULTAS_{Model.Codigo}.pdf")" class="side-nav-link">
+            <i class="uil-file-alt"></i>
+            <span> Formulário Para Recurso </span>
+        </a>
+
+
+    <li class="side-nav-item">
+        <a asp-controller="Formularios" asp-action="Consultar" asp-route-municipio="@Model.Codigo" class="side-nav-link">
+            <i class="mdi mdi-file-document-multiple-outline"></i>
+            <span> Formulários </span>
+        </a>
+
+
+
+    <li class="side-nav-item">
+        <a target="_blank"  class="side-nav-link">
+            <i class="mdi mdi-clipboard-text-off-outline"></i>
+            <span> Recurso/Defesa Online </span>
+        </a>
+    </li>
+
+
+
+    <li class="side-nav-item">
+        <a target="_blank"  class="side-nav-link">
+            <i class="mdi mdi-account-arrow-right"></i>
+            <span> Indicação Cond. Online </span>
+        </a>
+    </li>
+
+
+    <li class="side-nav-item">
+        <a target="_blank" class="side-nav-link">
+            <i class="mdi mdi-smart-card-outline"></i>
+            <span> Agentes de Trânsito </span>
+        </a>
+    </li>
+
+
+    <li class="side-nav-item">
+        <a target="_blank" class="side-nav-link">
+            <i class="uil-user"></i>
+            <span> Consulta de Multa PF/PJ </span>
+        </a>
+    </li>
+
+
+

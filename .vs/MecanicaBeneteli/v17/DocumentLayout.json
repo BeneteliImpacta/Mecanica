@@ -1,0 +1,734 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Faculdade\\MecanicaBeneteli\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\views\\usuario\\cadastrarinicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\views\\usuario\\cadastrarinicio.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\viewmodel\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\viewmodel\\usuarioviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242EFEE9-11E7-4672-BBF5-F0F65AA249D1}|MecanicaBeneteli.Data\\MecanicaBeneteli.Data.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli.data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242EFEE9-11E7-4672-BBF5-F0F65AA249D1}|MecanicaBeneteli.Data\\MecanicaBeneteli.Data.csproj|solutionrelative:mecanicabeneteli.data\\repository\\usuariorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli.business\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|solutionrelative:mecanicabeneteli.business\\services\\usuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\configurations\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli.business\\interfaces\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|solutionrelative:mecanicabeneteli.business\\interfaces\\services\\iusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\configurations\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\configurations\\automapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli.business\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|solutionrelative:mecanicabeneteli.business\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\configurations\\mvcconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\configurations\\mvcconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli.business\\util\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|solutionrelative:mecanicabeneteli.business\\util\\valueobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\package-lock.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\postcss.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\postcss.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\webpack.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\webpack.prod.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\webpack.prod.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\webpack.dev.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\webpack.dev.config.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\views\\shared\\components\\summary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\views\\shared\\components\\summary\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\wwwroot\\src\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\wwwroot\\src\\js\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\configurations\\globalization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\configurations\\globalization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\extensions\\cookie\\ileitorcookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\extensions\\cookie\\ileitorcookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli.business\\interfaces\\notificacoes\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|solutionrelative:mecanicabeneteli.business\\interfaces\\notificacoes\\inotificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli.business\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|solutionrelative:mecanicabeneteli.business\\models\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli.business\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|solutionrelative:mecanicabeneteli.business\\services\\baseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli.business\\notificacoes\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|solutionrelative:mecanicabeneteli.business\\notificacoes\\notificacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242EFEE9-11E7-4672-BBF5-F0F65AA249D1}|MecanicaBeneteli.Data\\MecanicaBeneteli.Data.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli.data\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242EFEE9-11E7-4672-BBF5-F0F65AA249D1}|MecanicaBeneteli.Data\\MecanicaBeneteli.Data.csproj|solutionrelative:mecanicabeneteli.data\\core\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242EFEE9-11E7-4672-BBF5-F0F65AA249D1}|MecanicaBeneteli.Data\\MecanicaBeneteli.Data.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli.data\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242EFEE9-11E7-4672-BBF5-F0F65AA249D1}|MecanicaBeneteli.Data\\MecanicaBeneteli.Data.csproj|solutionrelative:mecanicabeneteli.data\\core\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{242EFEE9-11E7-4672-BBF5-F0F65AA249D1}|MecanicaBeneteli.Data\\MecanicaBeneteli.Data.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli.data\\core\\connectionstringsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{242EFEE9-11E7-4672-BBF5-F0F65AA249D1}|MecanicaBeneteli.Data\\MecanicaBeneteli.Data.csproj|solutionrelative:mecanicabeneteli.data\\core\\connectionstringsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli.business\\notificacoes\\notificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|solutionrelative:mecanicabeneteli.business\\notificacoes\\notificador.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli.business\\mecanicabeneteli.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{459C78A1-ECD0-417D-9CFC-6B421CBCB30C}|MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj|solutionrelative:mecanicabeneteli.business\\mecanicabeneteli.business.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\extensions\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\extensions\\exceptions\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\extensions\\cookie\\igeradorcookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\extensions\\cookie\\igeradorcookie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\extensions\\pollyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\extensions\\pollyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|c:\\faculdade\\mecanicabeneteli\\mecanicabeneteli\\extensions\\exceptions\\errointernoapiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF6B6B66-1647-44B1-B5C9-E6D5CAF38DA2}|MecanicaBeneteli\\MecanicaBeneteli.csproj|solutionrelative:mecanicabeneteli\\extensions\\exceptions\\errointernoapiexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Program.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Program.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Program.cs",
+              "RelativeToolTip": "MecanicaBeneteli\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:22:20.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastrarInicio.cshtml",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Views\\Usuario\\CadastrarInicio.cshtml",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Views\\Usuario\\CadastrarInicio.cshtml",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Views\\Usuario\\CadastrarInicio.cshtml",
+              "RelativeToolTip": "MecanicaBeneteli\\Views\\Usuario\\CadastrarInicio.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAYwAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T16:42:03.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "MecanicaBeneteli\\Controllers\\UsuarioController.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAADwvzEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T15:12:01.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsuarioRepository.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Data\\Repository\\UsuarioRepository.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli.Data\\Repository\\UsuarioRepository.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Data\\Repository\\UsuarioRepository.cs",
+              "RelativeToolTip": "MecanicaBeneteli.Data\\Repository\\UsuarioRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAADwvycAAACbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:37:56.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUsuarioService.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Interfaces\\Services\\IUsuarioService.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli.Business\\Interfaces\\Services\\IUsuarioService.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Interfaces\\Services\\IUsuarioService.cs",
+              "RelativeToolTip": "MecanicaBeneteli.Business\\Interfaces\\Services\\IUsuarioService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:23:23.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioViewModel.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\ViewModel\\UsuarioViewModel.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\ViewModel\\UsuarioViewModel.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\ViewModel\\UsuarioViewModel.cs",
+              "RelativeToolTip": "MecanicaBeneteli\\ViewModel\\UsuarioViewModel.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAcwBQAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T17:24:38.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Configurations\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Configurations\\DependencyInjection.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Configurations\\DependencyInjection.cs",
+              "RelativeToolTip": "MecanicaBeneteli\\Configurations\\DependencyInjection.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAswDsAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:37:59.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioService.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Services\\UsuarioService.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli.Business\\Services\\UsuarioService.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Services\\UsuarioService.cs",
+              "RelativeToolTip": "MecanicaBeneteli.Business\\Services\\UsuarioService.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvxwAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:43:24.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AutoMapper.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Configurations\\AutoMapper.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Configurations\\AutoMapper.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Configurations\\AutoMapper.cs",
+              "RelativeToolTip": "MecanicaBeneteli\\Configurations\\AutoMapper.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAswAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:36:15.112Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli.Business\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Models\\Usuario.cs",
+              "RelativeToolTip": "MecanicaBeneteli.Business\\Models\\Usuario.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T18:13:15.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ValueObject.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Util\\ValueObject.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli.Business\\Util\\ValueObject.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Util\\ValueObject.cs",
+              "RelativeToolTip": "MecanicaBeneteli.Business\\Util\\ValueObject.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAgwCIAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:19:04.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "MecanicaBeneteli\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T02:15:51.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MvcConfig.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Configurations\\MvcConfig.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Configurations\\MvcConfig.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Configurations\\MvcConfig.cs",
+              "RelativeToolTip": "MecanicaBeneteli\\Configurations\\MvcConfig.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAQwBkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:23:46.079Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "MecanicaBeneteli\\Controllers\\BaseController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAADwvwgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T16:52:43.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\appsettings.Development.json",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\appsettings.Development.json",
+              "RelativeToolTip": "MecanicaBeneteli\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-23T00:40:01.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\appsettings.json",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\appsettings.json",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\appsettings.json",
+              "RelativeToolTip": "MecanicaBeneteli\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-23T17:47:39.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "package-lock.json",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\package-lock.json",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\package-lock.json",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\package-lock.json",
+              "RelativeToolTip": "MecanicaBeneteli\\package-lock.json",
+              "ViewState": "AQIAAKtUAAAAAAAAAAAAAAEAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-23T01:53:07.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "postcss.config.js",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\postcss.config.js",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\postcss.config.js",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\postcss.config.js",
+              "RelativeToolTip": "MecanicaBeneteli\\postcss.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-23T01:56:29.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "webpack.config.js",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\webpack.config.js",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\webpack.config.js",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\webpack.config.js",
+              "RelativeToolTip": "MecanicaBeneteli\\webpack.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-23T01:56:51.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "webpack.prod.config.js",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\webpack.prod.config.js",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\webpack.prod.config.js",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\webpack.prod.config.js",
+              "RelativeToolTip": "MecanicaBeneteli\\webpack.prod.config.js",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAB4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-23T01:57:31.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "webpack.dev.config.js",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\webpack.dev.config.js",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\webpack.dev.config.js",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\webpack.dev.config.js",
+              "RelativeToolTip": "MecanicaBeneteli\\webpack.dev.config.js",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-23T01:57:07.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "package.json",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\package.json",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\package.json",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\package.json",
+              "RelativeToolTip": "MecanicaBeneteli\\package.json",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-23T01:53:28.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "MecanicaBeneteli\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T14:45:01.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "MecanicaBeneteli\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T14:45:40.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Views\\Shared\\Components\\Summary\\Default.cshtml",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Views\\Shared\\Components\\Summary\\Default.cshtml",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Views\\Shared\\Components\\Summary\\Default.cshtml",
+              "RelativeToolTip": "MecanicaBeneteli\\Views\\Shared\\Components\\Summary\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T15:25:52.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeToolTip": "MecanicaBeneteli\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAE0AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-23T14:45:47.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Globalization.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Configurations\\Globalization.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Configurations\\Globalization.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Configurations\\Globalization.cs",
+              "RelativeToolTip": "MecanicaBeneteli\\Configurations\\Globalization.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAcwBQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:50:09.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\js\\app.js",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\wwwroot\\src\\js\\app.js",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\wwwroot\\src\\js\\app.js",
+              "RelativeToolTip": "MecanicaBeneteli\\wwwroot\\src\\js\\app.js",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-23T17:35:50.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "ILeitorCookie.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Extensions\\Cookie\\ILeitorCookie.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Extensions\\Cookie\\ILeitorCookie.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Extensions\\Cookie\\ILeitorCookie.cs",
+              "RelativeToolTip": "MecanicaBeneteli\\Extensions\\Cookie\\ILeitorCookie.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAqwBoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:30:09.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "INotificador.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Interfaces\\Notificacoes\\INotificador.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli.Business\\Interfaces\\Notificacoes\\INotificador.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Interfaces\\Notificacoes\\INotificador.cs",
+              "RelativeToolTip": "MecanicaBeneteli.Business\\Interfaces\\Notificacoes\\INotificador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:22:32.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Extensions\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Extensions\\Exceptions\\ExceptionMiddleware.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Extensions\\Exceptions\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "MecanicaBeneteli\\Extensions\\Exceptions\\ExceptionMiddleware.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:26:13.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "IGeradorCookie.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Extensions\\Cookie\\IGeradorCookie.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Extensions\\Cookie\\IGeradorCookie.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Extensions\\Cookie\\IGeradorCookie.cs",
+              "RelativeToolTip": "MecanicaBeneteli\\Extensions\\Cookie\\IGeradorCookie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:29:58.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PollyExtensions.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Extensions\\PollyExtensions.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Extensions\\PollyExtensions.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Extensions\\PollyExtensions.cs",
+              "RelativeToolTip": "MecanicaBeneteli\\Extensions\\PollyExtensions.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAABOwAAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:27:15.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ErroInternoApiException.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Extensions\\Exceptions\\ErroInternoApiException.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli\\Extensions\\Exceptions\\ErroInternoApiException.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli\\Extensions\\Exceptions\\ErroInternoApiException.cs",
+              "RelativeToolTip": "MecanicaBeneteli\\Extensions\\Exceptions\\ErroInternoApiException.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T02:26:00.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Models\\Entity.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli.Business\\Models\\Entity.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Models\\Entity.cs",
+              "RelativeToolTip": "MecanicaBeneteli.Business\\Models\\Entity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:44:26.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Data\\Core\\IRepository.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli.Data\\Core\\IRepository.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Data\\Core\\IRepository.cs",
+              "RelativeToolTip": "MecanicaBeneteli.Data\\Core\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:36:27.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Data\\Core\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli.Data\\Core\\BaseRepository.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Data\\Core\\BaseRepository.cs",
+              "RelativeToolTip": "MecanicaBeneteli.Data\\Core\\BaseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:33:02.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Notificacao.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Notificacoes\\Notificacao.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli.Business\\Notificacoes\\Notificacao.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Notificacoes\\Notificacao.cs",
+              "RelativeToolTip": "MecanicaBeneteli.Business\\Notificacoes\\Notificacao.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAIAzwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:24:12.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "BaseService.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Services\\BaseService.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli.Business\\Services\\BaseService.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Services\\BaseService.cs",
+              "RelativeToolTip": "MecanicaBeneteli.Business\\Services\\BaseService.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAA0wBcAAAB4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:25:38.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ConnectionStringsDTO.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Data\\Core\\ConnectionStringsDTO.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli.Data\\Core\\ConnectionStringsDTO.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Data\\Core\\ConnectionStringsDTO.cs",
+              "RelativeToolTip": "MecanicaBeneteli.Data\\Core\\ConnectionStringsDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:34:22.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Notificador.cs",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Notificacoes\\Notificador.cs",
+              "RelativeDocumentMoniker": "MecanicaBeneteli.Business\\Notificacoes\\Notificador.cs",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\Notificacoes\\Notificador.cs",
+              "RelativeToolTip": "MecanicaBeneteli.Business\\Notificacoes\\Notificador.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-23T01:24:23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "MecanicaBeneteli.Business.csproj",
+              "DocumentMoniker": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj",
+              "RelativeDocumentMoniker": "MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj",
+              "ToolTip": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj",
+              "RelativeToolTip": "MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-03-23T00:18:32.592Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

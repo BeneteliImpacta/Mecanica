@@ -1,0 +1,102 @@
+﻿
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <link rel="apple-touch-icon" sizes="180x180" href="~/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="~/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="~/favicon-16x16.png">
+    <link rel="manifest" href="~/site.webmanifest">
+    <link rel="mask-icon" href="~/safari-pinned-tab.svg" color="#7C7AEC">
+
+    <title>Mecanica Beneteli</title>
+    <link href="~/dist/css/style.css" rel="stylesheet" asp-append-version="true" />
+    
+    @await RenderSectionAsync("Scripts", required: false)
+</head>
+<body class="loading" data-layout-config='{"leftSideBarTheme":"default","layoutBoxed":false, "leftSidebarCondensed":false, "leftSidebarScrollable":true,"darkMode":false, "showRightSidebarOnStart": true}'>
+
+    <div class="wrapper">
+
+        <div class="leftside-menu">
+
+
+            <a asp-controller="Home" asp-action="" class="logo text-center logo-light">
+                <span class="logo-lg">
+                    teste
+                </span>
+                <span class="logo-sm">
+                    teste
+                </span>
+            </a>
+
+            <a asp-controller="Home" asp-action="" class="logo text-center logo-dark">
+                <span class="logo-lg">
+                    teste
+                </span>
+                <span class="logo-sm">
+                    teste
+                </span>
+            </a>
+
+            <div class="h-100" id="leftside-menu-container" data-simplebar>
+
+                <ul class="side-nav">
+
+                    <li class="side-nav-title side-nav-item" style="color: white; padding-bottom: 30px; text-align: center;">teste</li>
+
+                   
+
+                </ul>
+
+                <div class="clearfix"></div>
+
+            </div>
+
+        </div>
+
+        <div class="content-page">
+            <div class="content">
+
+                <div class="navbar-custom">
+                    <button id="botao-menu" class="button-menu-mobile open-left">
+                        <i id="botao-menu-icone"></i>
+                    </button>
+                </div>
+
+                <div class="container-fluid">
+                    
+                    <div class="row">
+                        <div class="col-12">
+                            <div class="page-title-box">
+                                <h4 class="page-title">testeeee</h4>
+                            </div>
+                        </div>
+                    </div>
+
+                    @RenderBody()
+
+                </div>
+
+            </div>
+
+            <footer class="footer">
+                <div class="container-fluid">
+                    <div class="row">
+
+                        <div class="col-md-6">
+                            <div class="text-md-end footer-links d-none d-md-block">
+                                @*<a href="javascript: void(0);">Contato</a>*@
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </footer>
+
+        </div>
+    </div>
+
+</body>
+</html>

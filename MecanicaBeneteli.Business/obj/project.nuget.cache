@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "KkmSqURlNG64Vkz2AHc3tJsiqDIqh+ehbnZWx+FMFMAJU2tUcmiIPftwSl2kZgtg8XYm5JMLa8+90Pbvd3fklQ==",
+  "success": true,
+  "projectFilePath": "C:\\Faculdade\\MecanicaBeneteli\\MecanicaBeneteli.Business\\MecanicaBeneteli.Business.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tiago\\.nuget\\packages\\fluentvalidation\\11.5.1\\fluentvalidation.11.5.1.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\skiasharp\\2.88.6\\skiasharp.2.88.6.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\skiasharp.nativeassets.macos\\2.88.6\\skiasharp.nativeassets.macos.2.88.6.nupkg.sha512",
+    "C:\\Users\\tiago\\.nuget\\packages\\skiasharp.nativeassets.win32\\2.88.6\\skiasharp.nativeassets.win32.2.88.6.nupkg.sha512"
+  ],
+  "logs": []
+}
