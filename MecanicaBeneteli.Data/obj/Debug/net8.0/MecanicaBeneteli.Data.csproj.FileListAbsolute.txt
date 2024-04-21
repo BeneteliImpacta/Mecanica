@@ -13,3 +13,4 @@ C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Data\obj\Debug\net8.0\MecanicaBen
 C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Data\obj\Debug\net8.0\refint\MecanicaBeneteli.Data.dll
 C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Data\obj\Debug\net8.0\MecanicaBeneteli.Data.pdb
 C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Data\obj\Debug\net8.0\ref\MecanicaBeneteli.Data.dll
+C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Data\obj\Debug\net8.0\MecanicaBeneteli.Data.sourcelink.json

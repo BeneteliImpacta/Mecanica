@@ -36,7 +36,7 @@ namespace MecanicaBeneteli.Data.Repository
             List<SqlParameter> parameters = new List<SqlParameter>
             {
                 new SqlParameter() { DbType = DbType.String, Direction = ParameterDirection.Input, ParameterName = "@Nome", Value = usuario.Nome },
-                new SqlParameter() { DbType = DbType.String, Direction = ParameterDirection.Input, ParameterName = "@Cpf", Value = usuario.Cpf},
+                new SqlParameter() { DbType = DbType.String, Direction = ParameterDirection.Input, ParameterName = "@Cpf", Value = usuario.CPF},
                 new SqlParameter() { DbType = DbType.String, Direction = ParameterDirection.Input, ParameterName = "@Usuario", Value = usuario.IdUsuario },
                 new SqlParameter() { DbType = DbType.String, Direction = ParameterDirection.Input, ParameterName = "@Senha", Value = usuario.Senha },
                 
@@ -48,6 +48,41 @@ namespace MecanicaBeneteli.Data.Repository
             int rowsAffect = await ExecutarInsert(_connectionStrings.Mecanica, query, parameters);
 
             return (rowsAffect == 1);
+        }
+
+        public async Task<Usuario> ConsultarSenha(string idUsuario)
+        {
+            Usuario usuario = null;
+
+            List<SqlParameter> parameters = new List<SqlParameter>
+            {
+                new SqlParameter() { DbType = DbType.String, Direction = ParameterDirection.Input, ParameterName = "@idUsuario", Value = idUsuario }
+            };
+
+            var query = @$"SELECT [Id]
+                                  ,[Nome]
+                                  ,[Senha]
+                              FROM [Mecanica].[dbo].[Usuarios]
+                              where Usuario = @idUsuario
+                            ";
+
+
+            DataTable dataTable = await ExecutarSelect(_connectionStrings.Mecanica, query, parameters);
+
+            if (dataTable.Rows.Count > 0)
+            {
+                DataRow row = dataTable.Rows[0];
+
+                usuario = new Usuario
+                {
+                    Nome = row["Nome"]?.ToString(),
+                    Senha = row["Senha"]?.ToString()
+
+                };
+
+            }
+
+            return usuario;
         }
     }
 }
