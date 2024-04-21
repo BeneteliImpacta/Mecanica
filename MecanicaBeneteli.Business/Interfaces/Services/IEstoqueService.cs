@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace MecanicaBeneteli.Business.Interfaces.Services
 {
-    public interface IUsuarioService
+    public interface IEstoqueService
     {
-        Task<Usuario> IncluirUsuario(Usuario usuario);
-        Task<Usuario> ValidarUsuario(Usuario dadosUsuario);
+        Task<ICollection<Peca>> ConsultarPecas();
+        Task<Peca> IncluirPeca(Peca peca);
     }
 }

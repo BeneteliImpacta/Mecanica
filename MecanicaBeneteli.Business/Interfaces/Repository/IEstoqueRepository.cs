@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 namespace MecanicaBeneteli.Business.Interfaces.Repository
 {
-    public interface IUsuarioRepository
+    public interface IEstoqueRepository
     {
-        Task<bool> InsereUsuario(Usuario usuario);
-        Task<Usuario> ConsultarSenha(string idUsuario);
+        Task<bool> InserePecas(Peca peca);
+        Task<ICollection<Peca>> ConsultarPecas();
     }
 }

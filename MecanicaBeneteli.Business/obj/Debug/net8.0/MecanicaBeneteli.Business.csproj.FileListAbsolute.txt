@@ -10,3 +10,4 @@ C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\obj\Debug\net8.0\Mecanic
 C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\obj\Debug\net8.0\refint\MecanicaBeneteli.Business.dll
 C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\obj\Debug\net8.0\MecanicaBeneteli.Business.pdb
 C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\obj\Debug\net8.0\ref\MecanicaBeneteli.Business.dll
+C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli.Business\obj\Debug\net8.0\MecanicaBeneteli.Business.sourcelink.json

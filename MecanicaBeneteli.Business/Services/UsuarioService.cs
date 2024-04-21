@@ -20,7 +20,7 @@ namespace MecanicaBeneteli.Business.Services
             _usuarioRepository = usuarioRepository;
         }
 
-        public async Task<Usuario> IncluiUsuario(Usuario usuario)
+        public async Task<Usuario> IncluirUsuario(Usuario usuario)
         {
             bool sucesso = await _usuarioRepository.InsereUsuario(usuario);
             if (!sucesso)
@@ -28,6 +28,23 @@ namespace MecanicaBeneteli.Business.Services
 
             return usuario;
         }
-    
+
+        public async Task<Usuario> ValidarUsuario(Usuario dadosUsuario)
+        {
+            var usuario = await _usuarioRepository.ConsultarSenha(dadosUsuario.IdUsuario);
+
+            if (usuario == null)
+            {
+                throw new Exception("Usuário não encontrado");
+            }
+
+            if (dadosUsuario.Senha != usuario.Senha)
+            {
+                throw new Exception("Senha incorreta");
+            }
+
+            return usuario;
+        }
+
     }
 }

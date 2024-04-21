@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MecanicaBeneteli.Business")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b64ce88c703a36c85f1763b29bb82bab5c0884c3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MecanicaBeneteli.Business")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MecanicaBeneteli.Business")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
