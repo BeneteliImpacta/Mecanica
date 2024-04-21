@@ -18,8 +18,24 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Faculdade/MecanicaBeneteli/MecanicaBeneteli/Views/Estoque/CadastrarEstoqueInicio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRXN0b3F1ZVxDYWRhc3RyYXJFc3RvcXVlSW5pY2lvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Faculdade/MecanicaBeneteli/MecanicaBeneteli/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Faculdade/MecanicaBeneteli/MecanicaBeneteli/Views/Menu/CadastrarEstoqueInicio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxDYWRhc3RyYXJFc3RvcXVlSW5pY2lvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Faculdade/MecanicaBeneteli/MecanicaBeneteli/Views/Menu/CadastrarPecaInicio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxDYWRhc3RyYXJQZWNhSW5pY2lvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Faculdade/MecanicaBeneteli/MecanicaBeneteli/Views/Menu/MenuInicio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWVudVxNZW51SW5pY2lvLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Faculdade/MecanicaBeneteli/MecanicaBeneteli/Views/Shared/Components/Menu/Default.cshtml]

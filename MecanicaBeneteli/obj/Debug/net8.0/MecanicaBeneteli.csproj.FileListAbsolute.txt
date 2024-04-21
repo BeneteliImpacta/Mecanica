@@ -53,3 +53,4 @@ C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli\obj\Debug\net8.0\MecanicaBeneteli
 C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli\obj\Debug\net8.0\ref\MecanicaBeneteli.dll
 C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli\obj\Debug\net8.0\scopedcss\projectbundle\MecanicaBeneteli.bundle.scp.css
+C:\Faculdade\MecanicaBeneteli\MecanicaBeneteli\obj\Debug\net8.0\MecanicaBeneteli.sourcelink.json

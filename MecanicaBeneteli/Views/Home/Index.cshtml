@@ -1,4 +1,5 @@
-﻿
+﻿@model MecanicaBeneteli.ViewModel.UsuarioViewModel
+
 
 @{
     Layout = null;
@@ -69,14 +70,25 @@
                     </div>
                 </div>
                 <div class="col-md-5 offset-md-2">
+                
                     <div class="text-md-end mt-3 mt-md-0">
+
+                        @if (TempData["Erro"] != null)
+                        {
+                            <div class="alert alert-danger" role="alert">
+                                @TempData["Erro"]
+                            </div>
+                        }
                         <!-- Formulário de login -->
-                        <form>
+                        <form asp-controller="Menu" asp-action="LoginSucesso" method="post">
+
+
+
                             <div class="mb-3">
-                                <input type="text" class="form-control" id="username" placeholder="Digite seu usuário" required>
+                                <input asp-for="IdUsuario" type="text" class="form-control" id="username" placeholder="Digite seu usuário" required>
                             </div>
                             <div class="mb-3">
-                                <input type="password" class="form-control" id="password" placeholder="Digite sua senha" required>
+                                <input asp-for="Senha" type="password" class="form-control" id="password" placeholder="Digite sua senha" required>
                             </div>
                             <button type="submit" class="btn btn-light">Entrar</button>
                         </form>

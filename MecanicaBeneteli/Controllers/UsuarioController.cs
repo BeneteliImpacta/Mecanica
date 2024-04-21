@@ -43,11 +43,13 @@ namespace MecanicaBeneteli.Controllers
                 return View("CadastrarInicio", usuarioViewModel);
             }
 
-            var usuario = await _usuarioService.IncluiUsuario(_mapper.Map<Usuario>(usuarioViewModel));
+            var usuario = await _usuarioService.IncluirUsuario(_mapper.Map<Usuario>(usuarioViewModel));
 
             ViewData["Sucesso"] = "Usuário cadastrado com sucesso!";
 
             return View("CadastrarInicio");
         }
+
+
     }
 }

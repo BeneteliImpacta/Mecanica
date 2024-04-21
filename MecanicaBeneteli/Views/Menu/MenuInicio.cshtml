@@ -1,0 +1,76 @@
+﻿@model MecanicaBeneteli.ViewModel.UsuarioViewModel
+
+@{
+    Layout = null;
+}
+
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="apple-touch-icon" sizes="180x180" href="~/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="~/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="~/favicon-16x16.png">
+    <link rel="manifest" href="~/site.webmanifest">
+    <link rel="mask-icon" href="~/safari-pinned-tab.svg" color="#7C7AEC">
+
+    <link href="~/dist/css/style.css" rel="stylesheet" asp-append-version="true" />
+</head>
+<body>
+    <header class="bg-primary text-white py-3">
+        <div class="container">
+            <div class="row justify-content-between align-items-center">
+                <div class="col-auto">
+                    <h1 class="h4 mb-0">Bem-vindo, Tiago Beneteli</h1>
+                </div>
+                <div class="col-auto">
+                    <a asp-controller="Home" asp-action="Index" title="Clique para Sair" class="btn btn-light">
+                        <i class="mdi mdi-logout mr-2"></i> Sair
+                    </a>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="container mt-5">
+        <h2>Menu da Mecânica</h2>
+        <div class="row mt-4">
+            <!-- Card de Estoque -->
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Estoque</h5>
+                        <p class="card-text">Gerencie o estoque de peças da mecânica</p>
+                        <a asp-controller="Menu" asp-action="GerenciarPecas" class="card-link">Gerenciar Peças</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Card de Usuário -->
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Usuário</h5>
+                        <p class="card-text">Gerencie as configurações do usuário</p>
+                        <a href="#" class="card-link">Alterar Senha</a>
+                    </div>
+                </div>
+            </div>
+            <!-- Card de Manutenção -->
+            <div class="col-md-4">
+                <div class="card">
+                    <div class="card-body">
+                        <h5 class="card-title">Manutenção</h5>
+                        <p class="card-text">Agende e gerencie as manutenções de veículos</p>
+                        <a href="#" class="card-link">Agendar Manutenção</a><br>
+                        <a href="#" class="card-link">Histórico de Manutenções</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Incluindo Bootstrap JS (opcional, apenas se necessário) -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>
