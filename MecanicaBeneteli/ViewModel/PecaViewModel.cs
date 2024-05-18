@@ -4,6 +4,9 @@ namespace MecanicaBeneteli.ViewModel
 {
     public class PecaViewModel
     {
+        [DisplayName("Id")]
+        public int Id { get; set; }
+
         [DisplayName("Nome")]
         public string Nome { get; set; }
 

@@ -43,6 +43,7 @@ namespace MecanicaBeneteli.Configurations
 
             CreateMap<PecaViewModel, Peca>().AfterMap((origem, destino) =>
             {
+                destino.Id = origem.Id;
                 destino.Nome = origem.Nome;
                 destino.Marca = origem.Marca;
                 destino.Modelo = origem.Modelo;

@@ -35,5 +35,21 @@ namespace MecanicaBeneteli.Business.Services
 
             return peca;
         }
+
+        public async Task<Peca> ConsultarPecaParaAlterar(int id)
+        {
+            var peca = await _estoqueRepository.ConsultarPecaParaAlterar(id);
+
+            return peca;
+        }
+
+        public async Task<Peca> AlterarPeca(Peca peca)
+        {
+            bool sucesso = await _estoqueRepository.AlteraPeca(peca);
+            if (!sucesso)
+                Notificar("Erro ao inserir a peça");
+
+            return peca;
+        }
     }
 }

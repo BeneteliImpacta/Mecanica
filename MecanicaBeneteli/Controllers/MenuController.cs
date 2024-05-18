@@ -74,5 +74,27 @@ namespace MecanicaBeneteli.Controllers
 
 
         }
+
+        [HttpGet("ConsultarPecas/{id}", Name = "AlterarPecas")]
+        public async Task<IActionResult> ConsultarPecas(int id)
+        {
+
+            var peca = await _estoqueService.ConsultarPecaParaAlterar(id);
+            var pecaViewModel = _mapper.Map<PecaViewModel>(peca);
+
+            return View("AlterarEstoqueInicio", pecaViewModel);
+        }
+
+        [HttpPost]
+        public async Task<IActionResult> AlterarPeca(PecaViewModel pecaViewModel)
+        {
+            var peca = await _estoqueService.AlterarPeca(_mapper.Map<Peca>(pecaViewModel));
+
+            ViewData["Sucesso"] = "Peça alterada com sucesso!";
+
+            return View("AlterarEstoqueInicio");
+
+
+        }
     }
 }
