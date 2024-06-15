@@ -53,6 +53,27 @@ namespace MecanicaBeneteli.Configurations
 
             });
 
+
+
+            CreateMap<ManutencaoViewModel, Manutencao>().AfterMap((origem, destino) =>
+            {
+                destino.NomeUsuario = origem.NomeUsuario;
+                destino.CarroUsado = origem.CarroUsado;
+                destino.Valor = origem.Valor;
+                destino.Placa = origem.Placa;
+                if (origem.PecaViewModel1 != null)
+                {
+                    if (destino.Peca == null)
+                    {
+                        destino.Peca = new Peca(); // Inicializa o objeto Peca se for null
+                    }
+
+                    destino.Peca.Quantidade = origem.PecaViewModel1.Quantidade;
+                    destino.Peca.Id = origem.PecaViewModel1.Id;
+                }
+
+            });
+
         }
     }
 }

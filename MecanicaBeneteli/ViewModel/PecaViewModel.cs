@@ -8,13 +8,13 @@ namespace MecanicaBeneteli.ViewModel
         public int Id { get; set; }
 
         [DisplayName("Nome")]
-        public string Nome { get; set; }
+        public string? Nome { get; set; }
 
         [DisplayName("Marca")]
-        public string Marca { get; set; }
+        public string? Marca { get; set; }
 
         [DisplayName("Modelo")]
-        public string Modelo { get; set; }
+        public string? Modelo { get; set; }
 
         [DisplayName("Ano")]
         public int Ano { get; set; }

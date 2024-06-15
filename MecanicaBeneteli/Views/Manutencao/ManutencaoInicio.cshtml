@@ -1,0 +1,117 @@
+﻿@model MecanicaBeneteli.ViewModel.ManutencaoViewModel
+
+@{
+    Layout = null;
+}
+
+<html lang="pt-br">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Expires" content="-1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="apple-touch-icon" sizes="180x180" href="~/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="~/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="~/favicon-16x16.png">
+    <link rel="manifest" href="~/site.webmanifest">
+    <link rel="mask-icon" href="~/safari-pinned-tab.svg" color="#7C7AEC">
+
+    <link href="~/dist/css/style.css" rel="stylesheet" asp-append-version="true" />
+</head>
+<body>
+    <!-- Cabeçalho -->
+    <header class="bg-primary text-white py-3">
+        <div class="container">
+            <h1 class="h4 mb-0">Manutenção de Veículo</h1>
+        </div>
+    </header>
+
+    <!-- Conteúdo Principal -->
+    <div class="container mt-4">
+        <!-- Formulário de Cadastro de Peças -->
+        @if (ViewData["Sucesso"] != null)
+        {
+            <div class="alert alert-success" role="alert">
+                @ViewData["Sucesso"]
+            </div>
+        }
+        <form asp-controller="Manutencao" asp-action="ManutencaoInicio" method="post">
+
+            <div class="form-group">
+                <label for="marca">Carro Usado:</label>
+                <input asp-for="CarroUsado" type="text" class="form-control" id="marca" placeholder="Digite a marca do carro" required>
+            </div>
+            <div class="form-group">
+                <label for="modelo">Placa:</label>
+                <input asp-for="Placa" type="text" class="form-control" id="placa" placeholder="Digite o modelo do carro" required>
+            </div>
+            <div class="form-group">
+                <label for="preco">Valor:</label>
+                <input asp-for="Valor" type="text" class="form-control" id="preco" placeholder="Digite o preço da manutenção" required>
+            </div>
+
+            <div id="pecas-container" class="form-group">
+                <div class="row peca-group mb-2">
+                    <div class="col-md-6">
+                        <label for="peca">Peça:</label>
+                        <select asp-for="PecaViewModel1.Id" class="form-select peca-select">
+                            @foreach (var peca in Model.PecaViewModel)
+                            {
+                                <option value="@peca.Id">@peca.Nome</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="col-md-4">
+                        <label for="quantidade">Quantidade:</label>
+                        <input asp-for="PecaViewModel1.Quantidade" type="number" class="form-control peca-quantidade" placeholder="Quantidade" />
+                    </div>
+                    <div class="col-md-2">
+                        <button type="button" class="btn btn-danger remove-peca-btn mt-3">Remover</button>
+                    </div>
+                </div>
+            </div>
+
+            @if (!ViewData.ModelState.IsValid)
+            {
+                <div class="alert alert-danger" role="alert">
+                    @Html.ValidationSummary()
+                </div>
+            }
+            <button type="button" id="add-peca-btn" class="btn btn-primary">Adicionar mais uma peça</button>
+            <button type="submit" class="btn btn-success">Enviar</button>
+            <button type="button" onclick="window.history.back();" class="btn btn-secondary">Voltar</button>
+        </form>
+    </div>
+
+</body>
+</html>
+
+<script>
+    let pecaIndex = 1;
+
+    document.getElementById('add-peca-btn').addEventListener('click', function () {
+        var pecasContainer = document.getElementById('pecas-container');
+        var pecaGroup = document.querySelector('.peca-group');
+        var newPecaGroup = pecaGroup.cloneNode(true);
+
+        // Atualiza os nomes dos campos para incluir o novo índice
+        newPecaGroup.querySelector('.peca-select').name = `Pecas[${pecaIndex}].Id`;
+        newPecaGroup.querySelector('.peca-quantidade').name = `Pecas[${pecaIndex}].Quantidade`;
+
+        // Limpa o campo de quantidade
+        newPecaGroup.querySelector('.peca-quantidade').value = '';
+
+        // Adiciona o evento de remover ao novo botão
+        newPecaGroup.querySelector('.remove-peca-btn').addEventListener('click', function () {
+            this.closest('.peca-group').remove();
+        });
+
+        pecasContainer.appendChild(newPecaGroup);
+        pecaIndex++;
+    });
+
+    // Adiciona o evento de remover ao botão inicial
+    document.querySelector('.remove-peca-btn').addEventListener('click', function () {
+        this.closest('.peca-group').remove();
+    });
+</script>

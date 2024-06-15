@@ -41,6 +41,8 @@ namespace MecanicaBeneteli.WebApp.Configurations
 
             services.AddScoped<MecanicaBeneteli.Business.Interfaces.Services.IUsuarioService, MecanicaBeneteli.Business.Services.UsuarioService>();
             services.AddScoped<MecanicaBeneteli.Business.Interfaces.Services.IEstoqueService, MecanicaBeneteli.Business.Services.EstoqueService>();
+            services.AddScoped<MecanicaBeneteli.Business.Interfaces.Services.IManutencaoService, MecanicaBeneteli.Business.Services.ManutencaoService>();
+
 
 
 
@@ -61,6 +63,7 @@ namespace MecanicaBeneteli.WebApp.Configurations
 
             services.AddScoped<MecanicaBeneteli.Business.Interfaces.Repository.IUsuarioRepository, MecanicaBeneteli.Data.Repository.UsuarioRepository>(s => new MecanicaBeneteli.Data.Repository.UsuarioRepository(connectionStrings));
             services.AddScoped<MecanicaBeneteli.Business.Interfaces.Repository.IEstoqueRepository, MecanicaBeneteli.Data.Repository.EstoqueRepository>(s => new MecanicaBeneteli.Data.Repository.EstoqueRepository(connectionStrings));
+            services.AddScoped<MecanicaBeneteli.Business.Interfaces.Repository.IManutencaoRepository, MecanicaBeneteli.Data.Repository.ManutencaoRepository>(s => new MecanicaBeneteli.Data.Repository.ManutencaoRepository(connectionStrings));
 
             #endregion
 
