@@ -92,6 +92,7 @@ namespace MecanicaBeneteli.Data.Repository
 
         public async Task<bool> InsereManutencao(Manutencao manutencao)
         {
+
             List<SqlParameter> parameters = new List<SqlParameter>
             {
                 new SqlParameter() { DbType = DbType.String, Direction = ParameterDirection.Input, ParameterName = "@ModeloVeiculo", Value = manutencao.CarroUsado },

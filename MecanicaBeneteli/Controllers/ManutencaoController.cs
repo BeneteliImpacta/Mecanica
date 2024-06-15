@@ -51,6 +51,7 @@ namespace MecanicaBeneteli.Controllers
             var pecasViewModel = _mapper.Map<List<PecaViewModel>>(pecas);
             manutencaoViewModell.PecaViewModel = pecasViewModel;
 
+
             ViewData["Sucesso"] = "Manutenção feita com sucesso!";
 
             return View("ManutencaoInicio", manutencaoViewModell);

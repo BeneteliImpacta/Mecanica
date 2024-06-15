@@ -12,5 +12,6 @@ namespace MecanicaBeneteli.Business.Interfaces.Repository
         Task<Peca> ConsultarPecaParaAlterarQuantidade(int id);
         Task<bool> AlteraQuantidadePeca(int quantidade, int id);
         Task<bool> InsereManutencao(Manutencao manutencao);
+
     }
 }
